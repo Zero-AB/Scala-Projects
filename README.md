@@ -6,3 +6,5 @@ A List of Projects developed using Scala
 * [Scala Practice](https://github.com/Zero-AB/Scala-Practice) - Various practice problems using Scala.
 
 # Larger Problems Solved with Scala
+
+* [Project Zero](https://github.com/Zero-AB/Scala-Project-0) - Project created to integrate mysql using a game as demonstration.
