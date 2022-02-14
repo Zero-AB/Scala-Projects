@@ -9,3 +9,4 @@ A List of Projects developed using Scala
 
 * [Project Zero](https://github.com/Zero-AB/Scala-Project-0) - Project created to integrate mysql using a game as demonstration.
 * [Project One](https://github.com/Zero-AB/Scala-Project-1) - Project created to demonstrate Hive queries using Scala, Spark, and Intellij.
+* [Project Two](https://github.com/Zero-AB/Project_Two) - Project created using Spark, IntelliJ to create a predictive analysis application using climate data.
